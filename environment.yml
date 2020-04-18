@@ -7,4 +7,3 @@ dependencies:
   - altair
   - voila
   - ipywidgets
-  - json
