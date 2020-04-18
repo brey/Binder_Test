@@ -1,9 +1,0 @@
-name: server
-
-channels:
-  - conda-forge
-
-dependencies:
-  - altair
-  - voila
-  - ipywidgets
