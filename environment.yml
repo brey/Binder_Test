@@ -1,5 +1,10 @@
-altair
-voila
-ipywidgets
-json
+name: server
 
+channels:
+  - conda-forge
+
+dependencies:
+  - altair
+  - voila
+  - ipywidgets
+  - json
