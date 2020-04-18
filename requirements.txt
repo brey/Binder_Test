@@ -1,3 +1,4 @@
 altair
 ipywidgets
 voila
+voila-gridstack
