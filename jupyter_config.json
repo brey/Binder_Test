@@ -2,7 +2,6 @@
     "VoilaConfiguration": {
         "enable_nbextensions": true,
         "theme": "dark",
-        "template": "gridstack",
         "extension_language_mapping": {
             ".py": "python",
             ".jl": "julia"
